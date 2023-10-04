@@ -1,4 +1,3 @@
-"eje6"
 function sumArray (numeros, n) {
     for (let i = 0; i < numeros.length; i++) {
         for (let j = 1; j <= numeros.length -1; j++) {

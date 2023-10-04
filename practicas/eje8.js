@@ -1,4 +1,3 @@
-"eje8"
 function fiestaDedisfraces(personas) {
     const personasDisfrazadas = personas.filter((p) => p.disfraz == true && p.personaje);
     const nombres = personasDisfrazadas.map((persona) => persona.nombre);

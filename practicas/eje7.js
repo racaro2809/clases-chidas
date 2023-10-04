@@ -1,4 +1,3 @@
-"eje7"
 function statusConnection(users) {
     let personasOnline = users.filter((persona) => persona.status === "online");
     if (personasOnline.length === 0) {

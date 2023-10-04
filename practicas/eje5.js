@@ -1,4 +1,3 @@
-"eje5"
 function verificarHeroe(heroe) {
     if (heroe.esMilitar == true && heroe.batalla == true) {
         return `${heroe.nombre}, es héroe militar y ha participado en batallas`

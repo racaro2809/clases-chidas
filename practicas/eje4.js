@@ -1,4 +1,3 @@
-"eje4"
 function pedirComida(array) {
     let numeroVeganos = array.filter((persona) => persona.dieta === 'vegan'); 
     let numeroStandard = array.filter((persona) => persona.dieta === 'standard');

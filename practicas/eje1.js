@@ -1,4 +1,3 @@
-/* "eje1" */
 "Determinar cuál es la palabra más larga"
 
 function palabraMasLarga(frases) {
